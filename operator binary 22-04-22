@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+   //operator aritmatika 
+   int a = 10;
+   int b = 5;
+   
+   int c = 10 + 5;
+   int d = 10- 5;
+   int e = 10 / 5;
+   int f = 10 * 5;
+   int g = 10 % 12;//sisa bagi
+ 
+    
+     cout<<c<<endl;
+       cout<<d<<endl;
+     cout<<e<<endl;
+     cout<<f<<endl;
+     cout<<g<<endl;
+    
+    return 0;
+}
